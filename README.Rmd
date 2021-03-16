@@ -1,0 +1,13 @@
+---
+title: "README"
+author: "Ranjitha Sekhar"
+date: "16/03/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+Trying to figure out GitHub via online classes and team meets is confusing, not gonna lie.
